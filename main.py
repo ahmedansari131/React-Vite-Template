@@ -39,6 +39,9 @@ def main():
                 print(f"Renamed {file_name} with new project name: {project_name}")
             else:
                 print(f"{file_name} does not exist.")
+                return
+        os.remove(__file__)
+        print("Script file deleted successfully.")
     except Exception as error:
         print("Error occurred while renaming the project ->", error)
 
