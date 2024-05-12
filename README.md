@@ -40,8 +40,5 @@ To get started with this project, follow these steps:
 - **Vite**: Vite is a fast build tool that significantly improves the development experience for frontend projects.
 - **Tailwind CSS**: Tailwind CSS is a utility-first CSS framework that helps you quickly build custom designs without writing any CSS.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
